@@ -42,3 +42,7 @@ nav {
 #games-cards .row > div {
     height: 150px;
 }
+
+._ps-img {
+    height: 400px;
+}
