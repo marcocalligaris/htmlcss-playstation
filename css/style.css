@@ -9,6 +9,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
+    z-index: 1;
 }
 
 #sony-header {
@@ -53,4 +54,8 @@ nav {
 
 #ps-plus {
     background-color: #BEBCBB;
+}
+
+#ps-now {
+    background-color: #161C3B;
 }
