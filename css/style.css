@@ -50,11 +50,11 @@ h1 {
     font-size: 18px;
 }
 
-#ps4-explore p {
+#ps4-explore,#special-offers p {
     font-size: 20px;
 }
 
-#ps4-explore h2 {
+#ps4-explore,#special-offers h2 {
     font-size: 36px;
 }
 
