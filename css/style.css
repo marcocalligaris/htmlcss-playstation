@@ -42,6 +42,14 @@ h1 {
     height: 650px;
 }
 
+#new-games-gallery {
+    background-color: #1F1F1F;
+}
+
+#new-games-gallery p {
+    font-size: 18px;
+}
+
 ._border1 {
     border: 2px dashed red;
 }
@@ -52,10 +60,6 @@ h1 {
 
 ._border3 {
     border: 2px dashed lightgray;
-}
-
-#games-cards .row > div {
-    height: 150px;
 }
 
 ._ps-img {
