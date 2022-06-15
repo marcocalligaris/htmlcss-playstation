@@ -57,13 +57,18 @@ header {
     font-size: 20px;
 }
 
-#ps4-explore,#special-offers h2 {
-    font-size: 36px;
+#ps4-explore h2 {
+    font-size: 38px;
 }
 
 #special-offers p {
     font-size: 20px;
 }
+
+#special-offers h2 {
+    font-size: 38px;
+}
+
 
 #ps-plus {
     background-color: #BEBCBB;
