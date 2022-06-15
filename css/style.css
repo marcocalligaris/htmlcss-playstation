@@ -6,14 +6,6 @@ h1 {
     font-size: 40px;
 }
 
-._btn-radius {
-    border-radius: 20px;
-}
-
-.btn:hover {
-
-}
-
 header {
     min-height: 120px;
     position: fixed;
@@ -33,6 +25,11 @@ header {
 
 #header-bottom a:hover {
     color: black;
+}
+
+.btn:hover {
+    outline: 3px solid white;
+    outline-offset: -5px;
 }
 
 .lens-search {
@@ -63,10 +60,10 @@ header {
 
 #ps-item {
     opacity: 0.7;
-    cursor: pointer;
 }
 
 #ps-item:hover {
+    cursor: pointer;
     opacity: 1;
     border-bottom: 1px solid #3D7AB3;
 }
